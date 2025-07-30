@@ -53,7 +53,7 @@ Models are trained on stratified splits and evaluated on held-out test sets.
 
 Due to file size limitations, some model weights and large intermediate files are hosted externally on **Google Drive**.
 
-🔗 [Download from Google Drive](https://drive.google.com/drive/folders/18fi0rHCvyMTttGk6HTbPORsY1qaOTw5I?usp=drive_link)
+🔗 [Download from Google Drive](https://drive.google.com/drive/folders/18fi0rHCvyMTttGk6HTbPORsY1qaOTw5I?usp=sharing)
 
 
 Please download and manually place the files into corresponding subdirectories (e.g., `models/`, `results/`, or `final_analysis/`) according to their intended usage.
