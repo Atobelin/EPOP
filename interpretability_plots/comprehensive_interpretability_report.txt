@@ -1,0 +1,833 @@
+
+COMPREHENSIVE INTERPRETABILITY ANALYSIS REPORT
+Literature-Validated ECM Proteins Analysis
+================================================================================
+Analysis Date: 2025-07-25 20:04:08
+Total Proteins Analyzed: 16
+Target Protein List: Q99715, Q06828, Q05707, P22105, P12111, P12109, P08123, Q15582, P02751, P02458, P24821, P04004, Q12805, P08572, P98160, P05997
+
+================================================================================
+
+=== INTERPRETABILITY ANALYSIS REPORT ===
+Protein ID: P12109
+Gene Name: COL6A1
+ESM Score: 0.9974
+Sequence Length: 28
+Sequence: GPEGPQGPPGHQGPPGPDECEILDIIMK
+
+1. AMINO ACID IMPORTANCE ANALYSIS
+==================================================
+Top 5 Most Important Positions:
+  1. Position 26: I (Importance: 0.0090)
+  2. Position 27: M (Importance: 0.0078)
+  3. Position 21: E (Importance: 0.0056)
+  4. Position 9: P (Importance: 0.0053)
+  5. Position 2: P (Importance: 0.0051)
+
+Average importance score: 0.0027
+Standard deviation: 0.0022
+
+2. MUTATION EFFECTS ANALYSIS
+==================================================
+Top 5 Most Sensitive Mutations:
+  1. Position 10: G→Q (Effect: 0.0499)
+  2. Position 5: P→H (Effect: 0.0485)
+  3. Position 13: G→Q (Effect: 0.0482)
+  4. Position 10: G→R (Effect: 0.0411)
+  5. Position 4: G→Q (Effect: 0.0368)
+
+3. FUNCTIONAL REGIONS ANALYSIS
+==================================================
+Top 3 Highest Scoring Regions (10-AA windows):
+  1. Positions 1-10: GPEGPQGPPG (Score: 0.0306)
+  2. Positions 4-13: GPQGPPGHQG (Score: 0.0050)
+  3. Positions 9-18: PGHQGPPGPD (Score: 0.0047)
+
+Average region score: 0.0026
+Maximum region score: 0.0306
+Minimum region score: 0.0000
+
+4. SUMMARY INSIGHTS
+==================================================
+- Sequence shows high ECM prediction confidence
+- Most critical amino acid: I at position 26
+- Highest mutation sensitivity: G→Q at position 10
+- Most functional region: positions 1-10 if region_scores else "N/A"
+
+
+================================================================================
+
+=== INTERPRETABILITY ANALYSIS REPORT ===
+Protein ID: P08123
+Gene Name: COL1A2
+ESM Score: 0.9957
+Sequence Length: 30
+Sequence: GENGVVGPTGPVGAAGPAGPNGPPGPAGSR
+
+1. AMINO ACID IMPORTANCE ANALYSIS
+==================================================
+Top 5 Most Important Positions:
+  1. Position 1: G (Importance: 0.0277)
+  2. Position 21: N (Importance: 0.0075)
+  3. Position 24: P (Importance: 0.0074)
+  4. Position 4: G (Importance: 0.0072)
+  5. Position 16: G (Importance: 0.0048)
+
+Average importance score: 0.0037
+Standard deviation: 0.0049
+
+2. MUTATION EFFECTS ANALYSIS
+==================================================
+Top 5 Most Sensitive Mutations:
+  1. Position 4: G→C (Effect: 0.2813)
+  2. Position 1: G→M (Effect: 0.1256)
+  3. Position 4: G→T (Effect: 0.0947)
+  4. Position 1: G→W (Effect: 0.0745)
+  5. Position 1: G→A (Effect: 0.0585)
+
+3. FUNCTIONAL REGIONS ANALYSIS
+==================================================
+Top 3 Highest Scoring Regions (10-AA windows):
+  1. Positions 1-10: GENGVVGPTG (Score: 0.0309)
+  2. Positions 16-25: GPAGPNGPPG (Score: 0.0278)
+  3. Positions 19-28: GPNGPPGPAG (Score: 0.0064)
+
+Average region score: 0.0041
+Maximum region score: 0.0309
+Minimum region score: 0.0001
+
+4. SUMMARY INSIGHTS
+==================================================
+- Sequence shows high ECM prediction confidence
+- Most critical amino acid: G at position 1
+- Highest mutation sensitivity: G→A at position 4
+- Most functional region: positions 1-10 if region_scores else "N/A"
+
+
+================================================================================
+
+=== INTERPRETABILITY ANALYSIS REPORT ===
+Protein ID: P12111
+Gene Name: COL6A3
+ESM Score: 0.9812
+Sequence Length: 32
+Sequence: YPPPAVESDAADIVFLIDSSEGVRPDGFAHIR
+
+1. AMINO ACID IMPORTANCE ANALYSIS
+==================================================
+Top 5 Most Important Positions:
+  1. Position 17: I (Importance: 0.0556)
+  2. Position 5: A (Importance: 0.0442)
+  3. Position 1: Y (Importance: 0.0367)
+  4. Position 11: A (Importance: 0.0365)
+  5. Position 14: V (Importance: 0.0287)
+
+Average importance score: 0.0143
+Standard deviation: 0.0137
+
+2. MUTATION EFFECTS ANALYSIS
+==================================================
+Top 5 Most Sensitive Mutations:
+  1. Position 17: I→R (Effect: 0.9750)
+  2. Position 14: V→P (Effect: 0.9723)
+  3. Position 14: V→Q (Effect: 0.9718)
+  4. Position 14: V→R (Effect: 0.9686)
+  5. Position 17: I→G (Effect: 0.9677)
+
+3. FUNCTIONAL REGIONS ANALYSIS
+==================================================
+Top 3 Highest Scoring Regions (10-AA windows):
+  1. Positions 11-20: ADIVFLIDSS (Score: 0.0014)
+  2. Positions 2-11: PPPAVESDAA (Score: 0.0014)
+  3. Positions 19-28: SSEGVRPDGF (Score: 0.0012)
+
+Average region score: 0.0006
+Maximum region score: 0.0014
+Minimum region score: 0.0001
+
+4. SUMMARY INSIGHTS
+==================================================
+- Sequence shows high ECM prediction confidence
+- Most critical amino acid: I at position 17
+- Highest mutation sensitivity: I→G at position 17
+- Most functional region: positions 11-20 if region_scores else "N/A"
+
+
+================================================================================
+
+=== INTERPRETABILITY ANALYSIS REPORT ===
+Protein ID: P08572
+Gene Name: COL4A2
+ESM Score: 0.9475
+Sequence Length: 18
+Sequence: GEQGFMGNTGPTGAVGDR
+
+1. AMINO ACID IMPORTANCE ANALYSIS
+==================================================
+Top 5 Most Important Positions:
+  1. Position 4: G (Importance: 0.1925)
+  2. Position 8: N (Importance: 0.1023)
+  3. Position 1: G (Importance: 0.0718)
+  4. Position 10: G (Importance: 0.0622)
+  5. Position 17: D (Importance: 0.0601)
+
+Average importance score: 0.0467
+Standard deviation: 0.0442
+
+2. MUTATION EFFECTS ANALYSIS
+==================================================
+Top 5 Most Sensitive Mutations:
+  1. Position 13: G→K (Effect: 0.8193)
+  2. Position 13: G→T (Effect: 0.7202)
+  3. Position 13: G→F (Effect: 0.6865)
+  4. Position 13: G→Q (Effect: 0.6395)
+  5. Position 10: G→T (Effect: 0.6369)
+
+3. FUNCTIONAL REGIONS ANALYSIS
+==================================================
+Top 3 Highest Scoring Regions (10-AA windows):
+  1. Positions 1-10: GEQGFMGNTG (Score: 0.3480)
+  2. Positions 3-12: QGFMGNTGPT (Score: 0.0740)
+  3. Positions 4-13: GFMGNTGPTG (Score: 0.0551)
+
+Average region score: 0.0674
+Maximum region score: 0.3480
+Minimum region score: 0.0097
+
+4. SUMMARY INSIGHTS
+==================================================
+- Sequence shows high ECM prediction confidence
+- Most critical amino acid: G at position 4
+- Highest mutation sensitivity: G→T at position 13
+- Most functional region: positions 1-10 if region_scores else "N/A"
+
+
+================================================================================
+
+=== INTERPRETABILITY ANALYSIS REPORT ===
+Protein ID: P04004
+Gene Name: VTN
+ESM Score: 0.8515
+Sequence Length: 22
+Sequence: MDWLVPATCEPIQSVFFFSGDK
+
+1. AMINO ACID IMPORTANCE ANALYSIS
+==================================================
+Top 5 Most Important Positions:
+  1. Position 10: E (Importance: 0.5739)
+  2. Position 21: D (Importance: 0.3246)
+  3. Position 3: W (Importance: 0.2713)
+  4. Position 13: Q (Importance: 0.2684)
+  5. Position 2: D (Importance: 0.2223)
+
+Average importance score: 0.1291
+Standard deviation: 0.1317
+
+2. MUTATION EFFECTS ANALYSIS
+==================================================
+Top 5 Most Sensitive Mutations:
+  1. Position 20: G→F (Effect: 0.8513)
+  2. Position 18: F→T (Effect: 0.8513)
+  3. Position 18: F→P (Effect: 0.8512)
+  4. Position 18: F→G (Effect: 0.8512)
+  5. Position 18: F→N (Effect: 0.8512)
+
+3. FUNCTIONAL REGIONS ANALYSIS
+==================================================
+Top 3 Highest Scoring Regions (10-AA windows):
+  1. Positions 2-11: DWLVPATCEP (Score: 0.0001)
+  2. Positions 5-14: VPATCEPIQS (Score: 0.0001)
+  3. Positions 3-12: WLVPATCEPI (Score: 0.0001)
+
+Average region score: 0.0000
+Maximum region score: 0.0001
+Minimum region score: 0.0000
+
+4. SUMMARY INSIGHTS
+==================================================
+- Sequence shows high ECM prediction confidence
+- Most critical amino acid: E at position 10
+- Highest mutation sensitivity: F→N at position 20
+- Most functional region: positions 2-11 if region_scores else "N/A"
+
+
+================================================================================
+
+=== INTERPRETABILITY ANALYSIS REPORT ===
+Protein ID: Q15582
+Gene Name: TGFBI BIGH3
+ESM Score: 0.5422
+Sequence Length: 22
+Sequence: DILATNGVIHYIDELLIPDSAK
+
+1. AMINO ACID IMPORTANCE ANALYSIS
+==================================================
+Top 5 Most Important Positions:
+  1. Position 10: H (Importance: 0.1254)
+  2. Position 12: I (Importance: 0.1165)
+  3. Position 5: T (Importance: 0.1058)
+  4. Position 7: G (Importance: 0.1022)
+  5. Position 17: I (Importance: 0.0991)
+
+Average importance score: 0.0558
+Standard deviation: 0.0353
+
+2. MUTATION EFFECTS ANALYSIS
+==================================================
+Top 5 Most Sensitive Mutations:
+  1. Position 16: L→D (Effect: 0.5391)
+  2. Position 13: D→W (Effect: 0.5383)
+  3. Position 12: I→E (Effect: 0.5380)
+  4. Position 12: I→A (Effect: 0.5378)
+  5. Position 7: G→E (Effect: 0.5376)
+
+3. FUNCTIONAL REGIONS ANALYSIS
+==================================================
+Top 3 Highest Scoring Regions (10-AA windows):
+  1. Positions 13-22: DELLIPDSAK (Score: 0.0006)
+  2. Positions 5-14: TNGVIHYIDE (Score: 0.0006)
+  3. Positions 6-15: NGVIHYIDEL (Score: 0.0004)
+
+Average region score: 0.0002
+Maximum region score: 0.0006
+Minimum region score: 0.0000
+
+4. SUMMARY INSIGHTS
+==================================================
+- Sequence shows moderate ECM prediction confidence
+- Most critical amino acid: H at position 10
+- Highest mutation sensitivity: G→E at position 16
+- Most functional region: positions 13-22 if region_scores else "N/A"
+
+
+================================================================================
+
+=== INTERPRETABILITY ANALYSIS REPORT ===
+Protein ID: P02458
+Gene Name: COL2A1
+ESM Score: 0.5067
+Sequence Length: 14
+Sequence: GFPGLPGPSGEPGK
+
+1. AMINO ACID IMPORTANCE ANALYSIS
+==================================================
+Top 5 Most Important Positions:
+  1. Position 11: E (Importance: 0.2032)
+  2. Position 14: K (Importance: 0.1968)
+  3. Position 10: G (Importance: 0.1824)
+  4. Position 1: G (Importance: 0.1378)
+  5. Position 3: P (Importance: 0.1263)
+
+Average importance score: 0.1071
+Standard deviation: 0.0634
+
+2. MUTATION EFFECTS ANALYSIS
+==================================================
+Top 5 Most Sensitive Mutations:
+  1. Position 10: G→P (Effect: 0.5035)
+  2. Position 10: G→T (Effect: 0.4981)
+  3. Position 10: G→Q (Effect: 0.4970)
+  4. Position 10: G→K (Effect: 0.4930)
+  5. Position 7: G→K (Effect: 0.4894)
+
+3. FUNCTIONAL REGIONS ANALYSIS
+==================================================
+Top 3 Highest Scoring Regions (10-AA windows):
+  1. Positions 4-13: GLPGPSGEPG (Score: 0.0286)
+  2. Positions 1-10: GFPGLPGPSG (Score: 0.0220)
+  3. Positions 2-11: FPGLPGPSGE (Score: 0.0168)
+
+Average region score: 0.0166
+Maximum region score: 0.0286
+Minimum region score: 0.0076
+
+4. SUMMARY INSIGHTS
+==================================================
+- Sequence shows moderate ECM prediction confidence
+- Most critical amino acid: E at position 11
+- Highest mutation sensitivity: G→K at position 10
+- Most functional region: positions 4-13 if region_scores else "N/A"
+
+
+================================================================================
+
+=== INTERPRETABILITY ANALYSIS REPORT ===
+Protein ID: P22105
+Gene Name: TNXB HXBL TNX TNXB1 TNXB2 XB
+ESM Score: 0.5034
+Sequence Length: 31
+Sequence: TEWTPAPGPVDAYEIQFIPTTEGASPPFTAR
+
+1. AMINO ACID IMPORTANCE ANALYSIS
+==================================================
+Top 5 Most Important Positions:
+  1. Position 3: W (Importance: 0.4938)
+  2. Position 28: F (Importance: 0.3004)
+  3. Position 1: T (Importance: 0.2843)
+  4. Position 13: Y (Importance: 0.2750)
+  5. Position 18: I (Importance: 0.2720)
+
+Average importance score: 0.1669
+Standard deviation: 0.1005
+
+2. MUTATION EFFECTS ANALYSIS
+==================================================
+Top 5 Most Sensitive Mutations:
+  1. Position 3: W→E (Effect: 0.4969)
+  2. Position 15: I→E (Effect: 0.4959)
+  3. Position 15: I→Q (Effect: 0.4953)
+  4. Position 15: I→S (Effect: 0.4952)
+  5. Position 3: W→P (Effect: 0.4935)
+
+3. FUNCTIONAL REGIONS ANALYSIS
+==================================================
+Top 3 Highest Scoring Regions (10-AA windows):
+  1. Positions 6-15: APGPVDAYEI (Score: 0.0008)
+  2. Positions 7-16: PGPVDAYEIQ (Score: 0.0008)
+  3. Positions 8-17: GPVDAYEIQF (Score: 0.0005)
+
+Average region score: 0.0002
+Maximum region score: 0.0008
+Minimum region score: 0.0000
+
+4. SUMMARY INSIGHTS
+==================================================
+- Sequence shows moderate ECM prediction confidence
+- Most critical amino acid: W at position 3
+- Highest mutation sensitivity: W→P at position 3
+- Most functional region: positions 6-15 if region_scores else "N/A"
+
+
+================================================================================
+
+=== INTERPRETABILITY ANALYSIS REPORT ===
+Protein ID: P05997
+Gene Name: COL5A2
+ESM Score: 0.4818
+Sequence Length: 36
+Sequence: IECQDVLDCADPVTPPGECCPVCSQTPGGGNTNFGR
+
+1. AMINO ACID IMPORTANCE ANALYSIS
+==================================================
+Top 5 Most Important Positions:
+  1. Position 31: N (Importance: 0.3310)
+  2. Position 13: V (Importance: 0.2447)
+  3. Position 17: G (Importance: 0.2349)
+  4. Position 32: T (Importance: 0.2181)
+  5. Position 14: T (Importance: 0.2146)
+
+Average importance score: 0.0966
+Standard deviation: 0.0795
+
+2. MUTATION EFFECTS ANALYSIS
+==================================================
+Top 5 Most Sensitive Mutations:
+  1. Position 13: V→C (Effect: 0.4786)
+  2. Position 15: P→C (Effect: 0.4760)
+  3. Position 14: T→C (Effect: 0.4755)
+  4. Position 21: P→C (Effect: 0.4749)
+  5. Position 22: V→C (Effect: 0.4708)
+
+3. FUNCTIONAL REGIONS ANALYSIS
+==================================================
+Top 3 Highest Scoring Regions (10-AA windows):
+  1. Positions 24-33: SQTPGGGNTN (Score: 0.0006)
+  2. Positions 26-35: TPGGGNTNFG (Score: 0.0005)
+  3. Positions 27-36: PGGGNTNFGR (Score: 0.0004)
+
+Average region score: 0.0001
+Maximum region score: 0.0006
+Minimum region score: 0.0000
+
+4. SUMMARY INSIGHTS
+==================================================
+- Sequence shows low ECM prediction confidence
+- Most critical amino acid: N at position 31
+- Highest mutation sensitivity: V→C at position 13
+- Most functional region: positions 24-33 if region_scores else "N/A"
+
+
+================================================================================
+
+=== INTERPRETABILITY ANALYSIS REPORT ===
+Protein ID: Q06828
+Gene Name: FMOD FM SLRR2E
+ESM Score: 0.4766
+Sequence Length: 29
+Sequence: KVPDGLPSALEQLYMEHNNVYTVPDSYFR
+
+1. AMINO ACID IMPORTANCE ANALYSIS
+==================================================
+Top 5 Most Important Positions:
+  1. Position 7: P (Importance: 0.2123)
+  2. Position 11: E (Importance: 0.1011)
+  3. Position 16: E (Importance: 0.0981)
+  4. Position 2: V (Importance: 0.0903)
+  5. Position 29: R (Importance: 0.0898)
+
+Average importance score: 0.0536
+Standard deviation: 0.0402
+
+2. MUTATION EFFECTS ANALYSIS
+==================================================
+Top 5 Most Sensitive Mutations:
+  1. Position 10: L→Q (Effect: 0.3844)
+  2. Position 10: L→R (Effect: 0.3757)
+  3. Position 16: E→C (Effect: 0.3739)
+  4. Position 10: L→E (Effect: 0.3714)
+  5. Position 10: L→S (Effect: 0.3667)
+
+3. FUNCTIONAL REGIONS ANALYSIS
+==================================================
+Top 3 Highest Scoring Regions (10-AA windows):
+  1. Positions 10-19: LEQLYMEHNN (Score: 0.0199)
+  2. Positions 11-20: EQLYMEHNNV (Score: 0.0016)
+  3. Positions 14-23: YMEHNNVYTV (Score: 0.0009)
+
+Average region score: 0.0013
+Maximum region score: 0.0199
+Minimum region score: 0.0000
+
+4. SUMMARY INSIGHTS
+==================================================
+- Sequence shows low ECM prediction confidence
+- Most critical amino acid: P at position 7
+- Highest mutation sensitivity: L→S at position 10
+- Most functional region: positions 10-19 if region_scores else "N/A"
+
+
+================================================================================
+
+=== INTERPRETABILITY ANALYSIS REPORT ===
+Protein ID: Q99715
+Gene Name: COL12A1 COL12A1L
+ESM Score: 0.3105
+Sequence Length: 22
+Sequence: LKPDTPYTITVSSLYPDGEGGR
+
+1. AMINO ACID IMPORTANCE ANALYSIS
+==================================================
+Top 5 Most Important Positions:
+  1. Position 7: Y (Importance: 0.3083)
+  2. Position 1: L (Importance: 0.3059)
+  3. Position 9: I (Importance: 0.2383)
+  4. Position 18: G (Importance: 0.1990)
+  5. Position 22: R (Importance: 0.1950)
+
+Average importance score: 0.1362
+Standard deviation: 0.0828
+
+2. MUTATION EFFECTS ANALYSIS
+==================================================
+Top 5 Most Sensitive Mutations:
+  1. Position 1: L→M (Effect: 0.3103)
+  2. Position 1: L→G (Effect: 0.3100)
+  3. Position 1: L→N (Effect: 0.3100)
+  4. Position 10: T→P (Effect: 0.3099)
+  5. Position 1: L→E (Effect: 0.3098)
+
+3. FUNCTIONAL REGIONS ANALYSIS
+==================================================
+Top 3 Highest Scoring Regions (10-AA windows):
+  1. Positions 10-19: TVSSLYPDGE (Score: 0.0005)
+  2. Positions 11-20: VSSLYPDGEG (Score: 0.0004)
+  3. Positions 13-22: SLYPDGEGGR (Score: 0.0004)
+
+Average region score: 0.0002
+Maximum region score: 0.0005
+Minimum region score: 0.0000
+
+4. SUMMARY INSIGHTS
+==================================================
+- Sequence shows low ECM prediction confidence
+- Most critical amino acid: Y at position 7
+- Highest mutation sensitivity: L→E at position 1
+- Most functional region: positions 10-19 if region_scores else "N/A"
+
+
+================================================================================
+
+=== INTERPRETABILITY ANALYSIS REPORT ===
+Protein ID: Q05707
+Gene Name: COL14A1 UND
+ESM Score: 0.2986
+Sequence Length: 39
+Sequence: VTYMTAQGDPEEEVIGTVMVPGSQNNLLLKPLLPDTEYK
+
+1. AMINO ACID IMPORTANCE ANALYSIS
+==================================================
+Top 5 Most Important Positions:
+  1. Position 31: P (Importance: 0.3697)
+  2. Position 21: P (Importance: 0.2768)
+  3. Position 38: Y (Importance: 0.2764)
+  4. Position 34: P (Importance: 0.2595)
+  5. Position 36: T (Importance: 0.2592)
+
+Average importance score: 0.1495
+Standard deviation: 0.0882
+
+2. MUTATION EFFECTS ANALYSIS
+==================================================
+Top 5 Most Sensitive Mutations:
+  1. Position 10: P→W (Effect: 0.5119)
+  2. Position 31: P→N (Effect: 0.4792)
+  3. Position 20: V→A (Effect: 0.4751)
+  4. Position 27: L→Y (Effect: 0.4576)
+  5. Position 19: M→G (Effect: 0.4506)
+
+3. FUNCTIONAL REGIONS ANALYSIS
+==================================================
+Top 3 Highest Scoring Regions (10-AA windows):
+  1. Positions 3-12: YMTAQGDPEE (Score: 0.0008)
+  2. Positions 2-11: TYMTAQGDPE (Score: 0.0004)
+  3. Positions 1-10: VTYMTAQGDP (Score: 0.0003)
+
+Average region score: 0.0001
+Maximum region score: 0.0008
+Minimum region score: 0.0000
+
+4. SUMMARY INSIGHTS
+==================================================
+- Sequence shows low ECM prediction confidence
+- Most critical amino acid: P at position 31
+- Highest mutation sensitivity: M→G at position 10
+- Most functional region: positions 3-12 if region_scores else "N/A"
+
+
+================================================================================
+
+=== INTERPRETABILITY ANALYSIS REPORT ===
+Protein ID: P02751
+Gene Name: FN1 FN
+ESM Score: 0.2845
+Sequence Length: 28
+Sequence: EVTSDSGSIVVSGLTPGVEYVYTIQVLR
+
+1. AMINO ACID IMPORTANCE ANALYSIS
+==================================================
+Top 5 Most Important Positions:
+  1. Position 22: Y (Importance: 0.3012)
+  2. Position 16: P (Importance: 0.2071)
+  3. Position 5: D (Importance: 0.1937)
+  4. Position 20: Y (Importance: 0.1713)
+  5. Position 7: G (Importance: 0.1590)
+
+Average importance score: 0.0964
+Standard deviation: 0.0687
+
+2. MUTATION EFFECTS ANALYSIS
+==================================================
+Top 5 Most Sensitive Mutations:
+  1. Position 22: Y→F (Effect: 0.4144)
+  2. Position 22: Y→L (Effect: 0.4116)
+  3. Position 10: V→C (Effect: 0.4104)
+  4. Position 22: Y→P (Effect: 0.4057)
+  5. Position 22: Y→M (Effect: 0.4052)
+
+3. FUNCTIONAL REGIONS ANALYSIS
+==================================================
+Top 3 Highest Scoring Regions (10-AA windows):
+  1. Positions 11-20: VSGLTPGVEY (Score: 0.0005)
+  2. Positions 4-13: SDSGSIVVSG (Score: 0.0005)
+  3. Positions 1-10: EVTSDSGSIV (Score: 0.0003)
+
+Average region score: 0.0002
+Maximum region score: 0.0005
+Minimum region score: 0.0000
+
+4. SUMMARY INSIGHTS
+==================================================
+- Sequence shows low ECM prediction confidence
+- Most critical amino acid: Y at position 22
+- Highest mutation sensitivity: Y→M at position 22
+- Most functional region: positions 11-20 if region_scores else "N/A"
+
+
+================================================================================
+
+=== INTERPRETABILITY ANALYSIS REPORT ===
+Protein ID: P98160
+Gene Name: HSPG2
+ESM Score: 0.2632
+Sequence Length: 15
+Sequence: LHQMSVADSGEYVCR
+
+1. AMINO ACID IMPORTANCE ANALYSIS
+==================================================
+Top 5 Most Important Positions:
+  1. Position 8: D (Importance: 0.2618)
+  2. Position 12: Y (Importance: 0.2388)
+  3. Position 10: G (Importance: 0.2108)
+  4. Position 14: C (Importance: 0.2103)
+  5. Position 15: R (Importance: 0.2036)
+
+Average importance score: 0.1381
+Standard deviation: 0.0789
+
+2. MUTATION EFFECTS ANALYSIS
+==================================================
+Top 5 Most Sensitive Mutations:
+  1. Position 2: H→W (Effect: 0.3193)
+  2. Position 3: Q→V (Effect: 0.2971)
+  3. Position 9: S→I (Effect: 0.2630)
+  4. Position 8: D→L (Effect: 0.2629)
+  5. Position 10: G→W (Effect: 0.2629)
+
+3. FUNCTIONAL REGIONS ANALYSIS
+==================================================
+Top 3 Highest Scoring Regions (10-AA windows):
+  1. Positions 6-15: VADSGEYVCR (Score: 0.0041)
+  2. Positions 3-12: QMSVADSGEY (Score: 0.0018)
+  3. Positions 2-11: HQMSVADSGE (Score: 0.0012)
+
+Average region score: 0.0014
+Maximum region score: 0.0041
+Minimum region score: 0.0004
+
+4. SUMMARY INSIGHTS
+==================================================
+- Sequence shows low ECM prediction confidence
+- Most critical amino acid: D at position 8
+- Highest mutation sensitivity: G→W at position 2
+- Most functional region: positions 6-15 if region_scores else "N/A"
+
+
+================================================================================
+
+=== INTERPRETABILITY ANALYSIS REPORT ===
+Protein ID: Q12805
+Gene Name: EFEMP1 FBLN3 FBNL
+ESM Score: 0.2386
+Sequence Length: 29
+Sequence: IQCAAGYEQSEHNVCQDIDECTAGTHNCR
+
+1. AMINO ACID IMPORTANCE ANALYSIS
+==================================================
+Top 5 Most Important Positions:
+  1. Position 1: I (Importance: 0.2310)
+  2. Position 4: A (Importance: 0.2294)
+  3. Position 2: Q (Importance: 0.2220)
+  4. Position 17: D (Importance: 0.2174)
+  5. Position 15: C (Importance: 0.2118)
+
+Average importance score: 0.1124
+Standard deviation: 0.0690
+
+2. MUTATION EFFECTS ANALYSIS
+==================================================
+Top 5 Most Sensitive Mutations:
+  1. Position 4: A→R (Effect: 0.3953)
+  2. Position 24: G→T (Effect: 0.2650)
+  3. Position 4: A→N (Effect: 0.2569)
+  4. Position 4: A→Y (Effect: 0.2497)
+  5. Position 4: A→H (Effect: 0.2486)
+
+3. FUNCTIONAL REGIONS ANALYSIS
+==================================================
+Top 3 Highest Scoring Regions (10-AA windows):
+  1. Positions 10-19: SEHNVCQDID (Score: 0.0008)
+  2. Positions 11-20: EHNVCQDIDE (Score: 0.0008)
+  3. Positions 3-12: CAAGYEQSEH (Score: 0.0005)
+
+Average region score: 0.0003
+Maximum region score: 0.0008
+Minimum region score: 0.0000
+
+4. SUMMARY INSIGHTS
+==================================================
+- Sequence shows low ECM prediction confidence
+- Most critical amino acid: I at position 1
+- Highest mutation sensitivity: A→H at position 4
+- Most functional region: positions 10-19 if region_scores else "N/A"
+
+
+================================================================================
+
+=== INTERPRETABILITY ANALYSIS REPORT ===
+Protein ID: P24821
+Gene Name: TNC HXB
+ESM Score: 0.2298
+Sequence Length: 20
+Sequence: TTLTGLRPGTEYGIGVSAVK
+
+1. AMINO ACID IMPORTANCE ANALYSIS
+==================================================
+Top 5 Most Important Positions:
+  1. Position 13: G (Importance: 0.2665)
+  2. Position 12: Y (Importance: 0.1873)
+  3. Position 7: R (Importance: 0.1382)
+  4. Position 2: T (Importance: 0.1074)
+  5. Position 9: G (Importance: 0.1051)
+
+Average importance score: 0.0714
+Standard deviation: 0.0654
+
+2. MUTATION EFFECTS ANALYSIS
+==================================================
+Top 5 Most Sensitive Mutations:
+  1. Position 13: G→R (Effect: 0.4786)
+  2. Position 13: G→H (Effect: 0.3527)
+  3. Position 13: G→M (Effect: 0.3097)
+  4. Position 13: G→Q (Effect: 0.3052)
+  5. Position 17: S→W (Effect: 0.2975)
+
+3. FUNCTIONAL REGIONS ANALYSIS
+==================================================
+Top 3 Highest Scoring Regions (10-AA windows):
+  1. Positions 11-20: EYGIGVSAVK (Score: 0.0003)
+  2. Positions 2-11: TLTGLRPGTE (Score: 0.0002)
+  3. Positions 1-10: TTLTGLRPGT (Score: 0.0002)
+
+Average region score: 0.0002
+Maximum region score: 0.0003
+Minimum region score: 0.0001
+
+4. SUMMARY INSIGHTS
+==================================================
+- Sequence shows low ECM prediction confidence
+- Most critical amino acid: G at position 13
+- Highest mutation sensitivity: S→W at position 13
+- Most functional region: positions 11-20 if region_scores else "N/A"
+
+
+================================================================================
+
+
+AGGREGATED ANALYSIS ACROSS ALL 16 PROTEINS
+================================================================================
+
+1. AMINO ACID IMPORTANCE RANKING
+Top 10 most important amino acids (by average importance score):
+   1. W: 0.3825
+   2. Y: 0.1497
+   3. C: 0.1041
+   4. R: 0.1027
+   5. K: 0.0989
+   6. D: 0.0959
+   7. E: 0.0947
+   8. T: 0.0942
+   9. Q: 0.0928
+  10. G: 0.0830
+
+2. MUTATION SENSITIVITY RANKING
+Top 10 most mutation-sensitive amino acids (by average effect):
+   1. P: 0.1757
+   2. C: 0.1705
+   3. G: 0.1621
+   4. F: 0.1443
+   5. W: 0.1425
+   6. L: 0.1343
+   7. K: 0.1284
+   8. R: 0.1284
+   9. I: 0.1283
+  10. D: 0.1272
+
+3. SUMMARY STATISTICS
+Total sequences analyzed: 16
+Average sequence length: 25.9
+Average ESM score: 0.557
+
+Most important amino acid overall: W (score: 0.3825)
+Most mutation-sensitive amino acid: P (effect: 0.1757)
+
+================================================================================

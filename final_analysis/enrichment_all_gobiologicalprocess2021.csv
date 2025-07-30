@@ -1,0 +1,26 @@
+Term,P_value,Adj_P_value,Genes,Gene_Count
+extracellular structure organization (GO:0043062),5.40382140577559e-13,9.390831524247926e-11,"['VTN', 'COL1A2', 'COL2A1', 'COL4A2', 'COL14A1', 'COL5A2', 'FGG', 'COL6A1', 'COL6A3', 'TGFBI', 'NID2', 'HSPG2']",12
+external encapsulating structure organization (GO:0045229),5.708712172795092e-13,9.390831524247926e-11,"['VTN', 'COL1A2', 'COL2A1', 'COL4A2', 'COL14A1', 'COL5A2', 'FGG', 'COL6A1', 'COL6A3', 'TGFBI', 'NID2', 'HSPG2']",12
+extracellular matrix organization (GO:0030198),1.239373808714339e-12,1.3591799435567252e-10,"['COL14A1', 'COL12A1', 'FGG', 'NID2', 'HSPG2', 'VTN', 'COL1A2', 'COL2A1', 'COL4A2', 'COL5A2', 'COL6A1', 'COL6A3', 'TGFBI']",13
+collagen fibril organization (GO:0030199),1.1444271553154819e-10,9.412913352469838e-09,"['COL1A2', 'COL2A1', 'COL4A2', 'COL14A1', 'COL5A2', 'COL12A1', 'COL6A1', 'COL6A3']",8
+supramolecular fiber organization (GO:0097435),1.577333302273906e-10,1.0378853128962302e-08,"['COL1A2', 'TNXB', 'COL2A1', 'MYO1C', 'COL4A2', 'COL14A1', 'COL5A2', 'COL12A1', 'COL6A1', 'COL6A3', 'TGFBI', 'HSPG2']",12
+endodermal cell differentiation (GO:0035987),1.7378260884648926e-06,9.529079718415829e-05,"['VTN', 'COL4A2', 'COL12A1', 'COL6A1']",4
+endoderm formation (GO:0001706),2.823565316433356e-06,0.00013270756987236772,"['VTN', 'COL4A2', 'COL12A1', 'COL6A1']",4
+regulation of complement activation (GO:0030449),1.07287447670584e-05,0.0004412196285452767,"['C3', 'VTN', 'CFB', 'C2']",4
+regulation of immune effector process (GO:0002697),1.355840737421729e-05,0.0004807768837722896,"['C3', 'VTN', 'CFB', 'C2']",4
+regulation of humoral immune response (GO:0002920),1.4613279142014883e-05,0.0004807768837722896,"['C3', 'VTN', 'CFB', 'C2']",4
+"complement activation, alternative pathway (GO:0006957)",0.00015455489350419234,0.004622596360261753,"['C3', 'CFB']",2
+negative regulation of blood coagulation (GO:0030195),0.00018089662634638277,0.004834182733748826,"['VTN', 'APOH', 'FGG']",3
+positive regulation of apoptotic cell clearance (GO:2000427),0.0002057099035637798,0.004834182733748826,"['C3', 'C2']",2
+regulation of apoptotic cell clearance (GO:2000425),0.0002057099035637798,0.004834182733748826,"['C3', 'C2']",2
+plasminogen activation (GO:0031639),0.0002640178919425577,0.005790792429940099,"['APOH', 'FGG']",2
+negative regulation of hemostasis (GO:1900047),0.0004814776145385075,0.00990038344894806,"['VTN', 'APOH']",2
+negative regulation of coagulation (GO:0050819),0.0006615177095993661,0.012802313321070083,"['VTN', 'APOH']",2
+negative regulation of blood vessel morphogenesis (GO:2000181),0.0012938246113639025,0.02364823872992911,"['COL4A2', 'APOH', 'HSPG2']",3
+eye morphogenesis (GO:0048592),0.001366658495614331,0.02366477079247973,"['EFEMP1', 'COL5A2']",2
+negative regulation of angiogenesis (GO:0016525),0.0017714946379568453,0.029141086794390106,"['COL4A2', 'APOH', 'HSPG2']",3
+regulation of blood coagulation (GO:0030193),0.002493789944203667,0.03769683969978335,"['VTN', 'APOH']",2
+post-translational protein modification (GO:0043687),0.002546859460038386,0.03769683969978335,"['C3', 'RAB1B', 'ALB', 'FGG', 'CP']",5
+cell-matrix adhesion (GO:0007160),0.0026353413771885016,0.03769683969978335,"['VTN', 'FGG', 'NID2']",3
+establishment of endothelial barrier (GO:0061028),0.0028744209090306376,0.03782737916284319,"['RAB1B', 'MSN']",2
+negative regulation of wound healing (GO:0061045),0.0028744209090306376,0.03782737916284319,"['VTN', 'APOH']",2

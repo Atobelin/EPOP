@@ -1,0 +1,7 @@
+CustomTransformer Training Summary
+==================================================
+
+Model: CustomTransformer
+Final Accuracy: 0.8859
+Final F1-Score: 0.8774
+Target (99%) Achieved: No

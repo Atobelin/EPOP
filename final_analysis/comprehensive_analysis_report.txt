@@ -1,0 +1,35 @@
+EPOP Protein Classification Model - Comprehensive Analysis Report
+======================================================================
+
+1. MODEL PERFORMANCE SUMMARY
+------------------------------
+EPOP Model:
+  Accuracy: 0.9940
+  F1-Score: 0.9940
+  Precision: 0.9950
+  Recall: 0.9930
+
+Transformer Model:
+  Accuracy: 0.8859
+  F1-Score: 0.8774
+  Precision: 0.9478
+  Recall: 0.8167
+
+LSTM Model:
+  Accuracy: 0.7769
+  F1-Score: 0.7904
+  Precision: 0.7452
+  Recall: 0.8415
+
+2. EPOP MODEL DETAILED METRICS
+------------------------------
+AUROC: 0.9994
+AUPRC: 0.9994
+Test samples: 16,000
+Optimal threshold: 0.168
+
+3. APPLICATION GUIDELINES
+------------------------------
+Use threshold 0.168 for classification
+Expected accuracy: 0.9943
+Expected F1-score: 0.9943

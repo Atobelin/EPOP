@@ -1,0 +1,8 @@
+ESM-2 Enhanced Two-Stage Training Summary
+==================================================
+
+Model: facebook/esm2_t33_650M_UR50D
+Final Accuracy: 0.9940
+Final F1-Score: 0.9940
+Improvement: +0.0774 F1
+Target (99%) Achieved: Yes

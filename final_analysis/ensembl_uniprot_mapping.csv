@@ -1,0 +1,92 @@
+From,Entry,Entry Name,Reviewed,Protein names,Gene Names,Organism,Length
+ENSP00000226218.4,P04004,VTNC_HUMAN,reviewed,Vitronectin (VN) (S-protein) (Serum-spreading factor) (V75) [Cleaved into: Vitronectin V65 subunit; Vitronectin V10 subunit; Somatomedin-B],VTN,Homo sapiens (Human),478
+ENSP00000384101.1,C9JEU5,C9JEU5_HUMAN,unreviewed,Fibrinogen gamma chain,FGG,Homo sapiens (Human),445
+ENSP00000372664.3,H0Y3H6,H0Y3H6_HUMAN,unreviewed,Complement C2 (EC 3.4.21.43) (C3/C5 convertase),C2,Homo sapiens (Human),526
+ENSP00000416330.2,Q15582,BGH3_HUMAN,reviewed,Transforming growth factor-beta-induced protein ig-h3 (Beta ig-h3) (Kerato-epithelin) (RGD-containing collagen-associated protein) (RGD-CAP),TGFBI BIGH3,Homo sapiens (Human),683
+ENSP00000420367.1,H7C5N5,H7C5N5_HUMAN,unreviewed,ferroxidase (EC 1.16.3.1),CP,Homo sapiens (Human),225
+ENSP00000393091.1,A0A140T956,A0A140T956_HUMAN,unreviewed,Tenascin XB,TNXB,Homo sapiens (Human),2280
+ENSP00000297268.6,P08123,CO1A2_HUMAN,reviewed,Collagen alpha-2(I) chain (Alpha-2 type I collagen),COL1A2,Homo sapiens (Human),1366
+ENSP00000420545.1,H7C5R1,H7C5R1_HUMAN,unreviewed,ferroxidase (EC 1.16.3.1),CP,Homo sapiens (Human),852
+ENSP00000369067.4,Q15063,POSTN_HUMAN,reviewed,Periostin (PN) (Osteoblast-specific factor 2) (OSF-2),POSTN OSF2,Homo sapiens (Human),836
+ENSP00000297848.3,Q05707,COEA1_HUMAN,reviewed,Collagen alpha-1(XIV) chain (Undulin),COL14A1 UND,Homo sapiens (Human),1796
+ENSP00000372645.2,A0A140T8Y3,A0A140T8Y3_HUMAN,unreviewed,Tenascin XB,TNXB,Homo sapiens (Human),4222
+ENSP00000452347.3,H0YJW9,H0YJW9_HUMAN,unreviewed,Uncharacterized protein,,Homo sapiens (Human),148
+ENSP00000411406.2,E9PC84,E9PC84_HUMAN,unreviewed,Tenascin (Hexabrachion) (Tenascin-C),TNC,Homo sapiens (Human),1928
+ENSP00000217456.2,Q9HDC9,APMAP_HUMAN,reviewed,Adipocyte plasma membrane-associated protein (Protein BSCv),APMAP C20orf3 UNQ1869/PRO4305,Homo sapiens (Human),416
+ENSP00000393217.1,H0Y4P7,H0Y4P7_HUMAN,unreviewed,Collagen alpha-1(XII) chain,COL12A1,Homo sapiens (Human),638
+ENSP00000363827.3,P98160,PGBM_HUMAN,reviewed,Basement membrane-specific heparan sulfate proteoglycan core protein (HSPG) (Perlecan) (PLC) [Cleaved into: Endorepellin; LG3 peptide],HSPG2,Homo sapiens (Human),4391
+ENSP00000271835.3,Q9UBG3,CRNN_HUMAN,reviewed,Cornulin (53 kDa putative calcium-binding protein) (53 kDa squamous epithelial-induced stress protein) (58 kDa heat shock protein) (Squamous epithelial heat shock protein 53) (Tumor-related protein),CRNN C1orf10 DRC1 PDRC1 SEP53,Homo sapiens (Human),495
+ENSP00000353408.5,P26038,MOES_HUMAN,reviewed,Moesin (Membrane-organizing extension spike protein),MSN,Homo sapiens (Human),577
+ENSP00000447829.1,A0A140TA33,A0A140TA33_HUMAN,unreviewed,Tenascin XB,TNXB,Homo sapiens (Human),4242
+ENSP00000323534.6,P02751,FINC_HUMAN,reviewed,Fibronectin (FN) (Cold-insoluble globulin) (CIG) [Cleaved into: Anastellin; Ugl-Y1; Ugl-Y2; Ugl-Y3],FN1 FN,Homo sapiens (Human),2477
+ENSP00000353654.5,P08572,CO4A2_HUMAN,reviewed,Collagen alpha-2(IV) chain [Cleaved into: Canstatin],COL4A2,Homo sapiens (Human),1712
+ENSP00000429123.1,H0YBB2,H0YBB2_HUMAN,unreviewed,Collagen type XIV alpha 1 chain,COL14A1,Homo sapiens (Human),336
+ENSP00000261170.3,P25092,GUC2C_HUMAN,reviewed,Guanylyl cyclase C (GC-C) (EC 4.6.1.2) (Heat-stable enterotoxin receptor) (STA receptor) (hSTAR) (Intestinal guanylate cyclase),GUCY2C GUC2C STAR,Homo sapiens (Human),1073
+ENSP00000265131.4,P24821,TENA_HUMAN,reviewed,Tenascin (TN) (Cytotactin) (GMEM) (GP 150-225) (Glioma-associated-extracellular matrix antigen) (Hexabrachion) (JI) (Myotendinous antigen) (Neuronectin) (Tenascin-C) (TN-C),TNC HXB,Homo sapiens (Human),2201
+ENSP00000418773.1,E9PFZ2,E9PFZ2_HUMAN,unreviewed,Ceruloplasmin (EC 1.11.1.27) (EC 1.11.1.9) (EC 1.16.3.1) (EC 1.16.3.4) (Cuproxidase ceruloplasmin) (Ferroxidase ceruloplasmin) (Glutathione peroxidase ceruloplasmin) (Glutathione-dependent peroxiredoxin ceruloplasmin),CP,Homo sapiens (Human),946
+ENSP00000421440.1,H0Y8L3,H0Y8L3_HUMAN,unreviewed,Transforming growth factor beta induced,TGFBI,Homo sapiens (Human),366
+ENSP00000250378.3,P23946,CMA1_HUMAN,reviewed,Chymase (EC 3.4.21.39) (Alpha-chymase) (Mast cell protease I),CMA1 CYH CYM,Homo sapiens (Human),247
+ENSP00000460831.1,I3L3Y6,I3L3Y6_HUMAN,unreviewed,Myosin IC,MYO1C,Homo sapiens (Human),170
+ENSP00000461682.1,I3L501,I3L501_HUMAN,unreviewed,Myosin IC,MYO1C,Homo sapiens (Human),168
+ENSP00000387561.1,A0A140T902,A0A140T902_HUMAN,unreviewed,Tenascin XB,TNXB,Homo sapiens (Human),4222
+ENSP00000423871.1,H0Y9D7,H0Y9D7_HUMAN,unreviewed,Transforming growth factor beta induced,TGFBI,Homo sapiens (Human),194
+ENSP00000428851.1,Q4G0W3,Q4G0W3_HUMAN,unreviewed,COL14A1 protein (Collagen type XIV alpha 1 chain),COL14A1,Homo sapiens (Human),534
+ENSP00000399153.1,A0A140T9C0,A0A140T9C0_HUMAN,unreviewed,Tenascin XB,TNXB,Homo sapiens (Human),4222
+ENSP00000452190.1,H0YJV3,H0YJV3_HUMAN,unreviewed,Nidogen-2,NID2,Homo sapiens (Human),644
+ENSP00000310226.6,Q9H0U4,RAB1B_HUMAN,reviewed,Ras-related protein Rab-1B (EC 3.6.5.2),RAB1B,Homo sapiens (Human),201
+ENSP00000336829.3,P02679,FIBG_HUMAN,reviewed,Fibrinogen gamma chain,FGG PRO2061,Homo sapiens (Human),453
+ENSP00000399538.2,P02751,FINC_HUMAN,reviewed,Fibronectin (FN) (Cold-insoluble globulin) (CIG) [Cleaved into: Anastellin; Ugl-Y1; Ugl-Y2; Ugl-Y3],FN1 FN,Homo sapiens (Human),2477
+ENSP00000356515.3,P46939,UTRN_HUMAN,reviewed,Utrophin (Dystrophin-related protein 1) (DRP-1),UTRN DMDL DRP1,Homo sapiens (Human),3433
+ENSP00000268613.10,P55290,CAD13_HUMAN,reviewed,Cadherin-13 (Heart cadherin) (H-cadherin) (P105) (Truncated cadherin) (T-cad) (T-cadherin),CDH13 CDHH,Homo sapiens (Human),713
+ENSP00000245206.5,P00505,AATM_HUMAN,reviewed,"Aspartate aminotransferase, mitochondrial (mAspAT) (EC 2.6.1.1) (EC 2.6.1.7) (Fatty acid-binding protein) (FABP-1) (Glutamate oxaloacetate transaminase 2) (Kynurenine aminotransferase 4) (Kynurenine aminotransferase IV) (Kynurenine--oxoglutarate transaminase 4) (Kynurenine--oxoglutarate transaminase IV) (Plasma membrane-associated fatty acid-binding protein) (FABPpm) (Transaminase A)",GOT2 KYAT4,Homo sapiens (Human),430
+ENSP00000422784.1,A0A0C4DGB6,A0A0C4DGB6_HUMAN,unreviewed,Albumin,ALB,Homo sapiens (Human),604
+ENSP00000351075.3,Q9UGT4,SUSD2_HUMAN,reviewed,Sushi domain-containing protein 2,SUSD2,Homo sapiens (Human),822
+ENSP00000375860.2,P12111,CO6A3_HUMAN,reviewed,Collagen alpha-3(VI) chain,COL6A3,Homo sapiens (Human),3177
+ENSP00000409461.1,J3QT83,J3QT83_HUMAN,unreviewed,Collagen type XIV alpha 1 chain,COL14A1,Homo sapiens (Human),843
+ENSP00000489183.1,A0A0U1RQV3,A0A0U1RQV3_HUMAN,unreviewed,EGF containing fibulin extracellular matrix protein 1,EFEMP1,Homo sapiens (Human),280
+ENSP00000394557.3,P55290,CAD13_HUMAN,reviewed,Cadherin-13 (Heart cadherin) (H-cadherin) (P105) (Truncated cadherin) (T-cad) (T-cadherin),CDH13 CDHH,Homo sapiens (Human),713
+ENSP00000443478.1,P24821,TENA_HUMAN,reviewed,Tenascin (TN) (Cytotactin) (GMEM) (GP 150-225) (Glioma-associated-extracellular matrix antigen) (Hexabrachion) (JI) (Myotendinous antigen) (Neuronectin) (Tenascin-C) (TN-C),TNC HXB,Homo sapiens (Human),2201
+ENSP00000338200.4,P02751,FINC_HUMAN,reviewed,Fibronectin (FN) (Cold-insoluble globulin) (CIG) [Cleaved into: Anastellin; Ugl-Y1; Ugl-Y2; Ugl-Y3],FN1 FN,Homo sapiens (Human),2477
+ENSP00000447841.1,A0A140TA41,A0A140TA41_HUMAN,unreviewed,Tenascin XB,TNXB,Homo sapiens (Human),4242
+ENSP00000435195.1,E9PLD0,E9PLD0_HUMAN,unreviewed,"RAB1B, member RAS oncogene family",RAB1B,Homo sapiens (Human),169
+ENSP00000364592.3,A0A0G2JH38,A0A0G2JH38_HUMAN,unreviewed,Complement factor B (EC 3.4.21.47) (C3/C5 convertase),CFB,Homo sapiens (Human),589
+ENSP00000437953.1,Q15063,POSTN_HUMAN,reviewed,Periostin (PN) (Osteoblast-specific factor 2) (OSF-2),POSTN OSF2,Homo sapiens (Human),836
+ENSP00000410815.1,B4E1Z4,B4E1Z4_HUMAN,unreviewed,Complement C2 (EC 3.4.21.43) (EC 3.4.21.47) (C3/C5 convertase) (Complement factor B),,Homo sapiens (Human),1266
+ENSP00000355180.3,P12109,CO6A1_HUMAN,reviewed,Collagen alpha-1(VI) chain,COL6A1,Homo sapiens (Human),1028
+ENSP00000386451.1,P62820,RAB1A_HUMAN,reviewed,Ras-related protein Rab-1A (EC 3.6.5.2) (YPT1-related protein),RAB1A RAB1,Homo sapiens (Human),205
+ENSP00000295550.4,P12111,CO6A3_HUMAN,reviewed,Collagen alpha-3(VI) chain,COL6A3,Homo sapiens (Human),3177
+ENSP00000407685.1,P22105,TENX_HUMAN,reviewed,Tenascin-X (TN-X) (Hexabrachion-like protein),TNXB HXBL TNX TNXB1 TNXB2 XB,Homo sapiens (Human),4244
+ENSP00000348285.4,P02751,FINC_HUMAN,reviewed,Fibronectin (FN) (Cold-insoluble globulin) (CIG) [Cleaved into: Anastellin; Ugl-Y1; Ugl-Y2; Ugl-Y3],FN1 FN,Homo sapiens (Human),2477
+ENSP00000469744.1,M0QYC8,M0QYC8_HUMAN,unreviewed,Complement C3,C3,Homo sapiens (Human),192
+ENSP00000354283.2,O00159,MYO1C_HUMAN,reviewed,Unconventional myosin-Ic (Myosin I beta) (MMI-beta) (MMIb),MYO1C,Homo sapiens (Human),1063
+ENSP00000347596.3,Q12805,FBLN3_HUMAN,reviewed,EGF-containing fibulin-like extracellular matrix protein 1 (Extracellular protein S1-5) (Fibrillin-like protein) (Fibulin-3) (FIBL-3),EFEMP1 FBLN3 FBNL,Homo sapiens (Human),493
+ENSP00000382862.1,P00751,CFAB_HUMAN,reviewed,Complement factor B (EC 3.4.21.47) (C3/C5 convertase) (Glycine-rich beta glycoprotein) (GBG) (PBF2) (Properdin factor B) [Cleaved into: Complement factor B Ba (Ba); Complement factor B Bb (Bb)],CFB BF BFD,Homo sapiens (Human),764
+ENSP00000305147.9,Q99715,COCA1_HUMAN,reviewed,Collagen alpha-1(XII) chain,COL12A1 COL12A1L,Homo sapiens (Human),3063
+ENSP00000245907.4,P01024,CO3_HUMAN,reviewed,Complement C3 (C3 and PZP-like alpha-2-macroglobulin domain-containing protein 1) [Cleaved into: Complement C3 beta chain; C3-beta-c (C3bc); Complement C3 alpha chain; C3a anaphylatoxin; Acylation stimulating protein (ASP) (C3adesArg); Complement C3b (Complement C3b-alpha' chain); Complement C3c alpha' chain fragment 1; Complement C3dg fragment; Complement C3g fragment; Complement C3d fragment; Complement C3f fragment; Complement C3c alpha' chain fragment 2],C3 CPAMD1,Homo sapiens (Human),1663
+ENSP00000332139.4,P00746,CFAD_HUMAN,reviewed,Complement factor D (EC 3.4.21.46) (Adipsin) (C3 convertase activator) (Properdin factor D),CFD DF PFD,Homo sapiens (Human),253
+ENSP00000315873.4,P12111,CO6A3_HUMAN,reviewed,Collagen alpha-3(VI) chain,COL6A3,Homo sapiens (Human),3177
+ENSP00000387438.1,A0A140T8Z8,A0A140T8Z8_HUMAN,unreviewed,Tenascin XB,TNXB,Homo sapiens (Human),3296
+ENSP00000448326.2,P22105,TENX_HUMAN,reviewed,Tenascin-X (TN-X) (Hexabrachion-like protein),TNXB HXBL TNX TNXB1 TNXB2 XB,Homo sapiens (Human),4244
+ENSP00000387286.3,P62820,RAB1A_HUMAN,reviewed,Ras-related protein Rab-1A (EC 3.6.5.2) (YPT1-related protein),RAB1A RAB1,Homo sapiens (Human),205
+ENSP00000205948.6,P02749,APOH_HUMAN,reviewed,Beta-2-glycoprotein 1 (APC inhibitor) (Activated protein C-binding protein) (Anticardiolipin cofactor) (Apolipoprotein H) (Apo-H) (Beta-2-glycoprotein I) (B2GPI) (Beta(2)GPI),APOH B2G1,Homo sapiens (Human),345
+ENSP00000206446.4,P23946,CMA1_HUMAN,reviewed,Chymase (EC 3.4.21.39) (Alpha-chymase) (Mast cell protease I),CMA1 CYH CYM,Homo sapiens (Human),247
+ENSP00000299367.5,P06681,CO2_HUMAN,reviewed,Complement C2 (C3/C5 convertase) [Cleaved into: Complement C2a; Serine protease complement C2b (EC 3.4.21.43)],C2,Homo sapiens (Human),752
+ENSP00000375861.3,P12111,CO6A3_HUMAN,reviewed,Collagen alpha-3(VI) chain,COL6A3,Homo sapiens (Human),3177
+ENSP00000347041.4,Q06828,FMOD_HUMAN,reviewed,Fibromodulin (FM) (Collagen-binding 59 kDa protein) (Keratan sulfate proteoglycan fibromodulin) (KSPG fibromodulin),FMOD FM SLRR2E,Homo sapiens (Human),376
+ENSP00000311809.4,Q05707,COEA1_HUMAN,reviewed,Collagen alpha-1(XIV) chain (Undulin),COL14A1 UND,Homo sapiens (Human),1796
+ENSP00000264036.4,P43121,MUC18_HUMAN,reviewed,Cell surface glycoprotein MUC18 (Cell surface glycoprotein P1H12) (Melanoma cell adhesion molecule) (Melanoma-associated antigen A32) (Melanoma-associated antigen MUC18) (S-endo 1 endothelial-associated antigen) (CD antigen CD146),MCAM MUC18,Homo sapiens (Human),646
+ENSP00000364000.3,P05997,CO5A2_HUMAN,reviewed,Collagen alpha-2(V) chain,COL5A2,Homo sapiens (Human),1499
+ENSP00000356496.4,Q5T097,Q5T097_HUMAN,unreviewed,Utrophin,UTRN,Homo sapiens (Human),988
+ENSP00000364393.3,P22105,TENX_HUMAN,reviewed,Tenascin-X (TN-X) (Hexabrachion-like protein),TNXB HXBL TNX TNXB1 TNXB2 XB,Homo sapiens (Human),4244
+ENSP00000464301.1,J3QRN2,J3QRN2_HUMAN,unreviewed,Apolipoprotein H,APOH,Homo sapiens (Human),181
+ENSP00000392541.1,H7C013,H7C013_HUMAN,unreviewed,Albumin,ALB,Homo sapiens (Human),197
+ENSP00000474155.1,S4R3C6,S4R3C6_HUMAN,unreviewed,Transforming growth factor beta induced,TGFBI,Homo sapiens (Human),219
+ENSP00000216286.4,Q14112,NID2_HUMAN,reviewed,Nidogen-2 (NID-2) (Osteonidogen),NID2,Homo sapiens (Human),1375
+ENSP00000338213.6,P02458,CO2A1_HUMAN,reviewed,Collagen alpha-1(II) chain (Alpha-1 type II collagen) [Cleaved into: Collagen alpha-1(II) chain; Chondrocalcin],COL2A1,Homo sapiens (Human),1487
+ENSP00000361065.3,Q9Y6Q9,NCOA3_HUMAN,reviewed,Nuclear receptor coactivator 3 (NCoA-3) (EC 2.3.1.48) (ACTR) (Amplified in breast cancer 1 protein) (AIB-1) (CBP-interacting protein) (pCIP) (Class E basic helix-loop-helix protein 42) (bHLHe42) (Receptor-associated coactivator 3) (RAC-3) (Steroid receptor coactivator protein 3) (SRC-3) (Thyroid hormone receptor activator molecule 1) (TRAM-1),NCOA3 AIB1 BHLHE42 RAC3 TRAM1,Homo sapiens (Human),1424
+ENSP00000371554.3,P08294,SODE_HUMAN,reviewed,Extracellular superoxide dismutase [Cu-Zn] (EC-SOD) (EC 1.15.1.1),SOD3,Homo sapiens (Human),240
+ENSP00000388352.2,P00751,CFAB_HUMAN,reviewed,Complement factor B (EC 3.4.21.47) (C3/C5 convertase) (Glycine-rich beta glycoprotein) (GBG) (PBF2) (Properdin factor B) [Cleaved into: Complement factor B Ba (Ba); Complement factor B Bb (Bb)],CFB BF BFD,Homo sapiens (Human),764
+ENSP00000418996.1,E7ETN3,E7ETN3_HUMAN,unreviewed,Complement C2 (EC 3.4.21.43) (EC 3.4.21.47) (C3/C5 convertase) (Complement factor B),,Homo sapiens (Human),1115
+ENSP00000325146.8,Q99715,COCA1_HUMAN,reviewed,Collagen alpha-1(XII) chain,COL12A1 COL12A1L,Homo sapiens (Human),3063
+ENSP00000412864.2,Q99715,COCA1_HUMAN,reviewed,Collagen alpha-1(XII) chain,COL12A1 COL12A1L,Homo sapiens (Human),3063
+ENSP00000295897.4,P02768,ALBU_HUMAN,reviewed,Albumin,ALB GIG20 GIG42 PRO0903 PRO1708 PRO2044 PRO2619 PRO2675 UNQ696/PRO1341,Homo sapiens (Human),609

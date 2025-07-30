@@ -1,0 +1,16 @@
+Term,P_value,Adj_P_value,Genes,Gene_Count
+positive regulation of glycoprotein metabolic process (GO:1903020),0.001998563431658992,0.02797015027105056,['RAB1B'],1
+regulation of glycoprotein metabolic process (GO:1903018),0.001998563431658992,0.02797015027105056,['RAB1B'],1
+negative regulation of cell cycle phase transition (GO:1901988),0.002797015027105056,0.02797015027105056,['SUSD2'],1
+establishment of endothelial intestinal barrier (GO:0090557),0.004392244396163033,0.02874421856047788,['RAB1B'],1
+negative regulation of cell division (GO:0051782),0.00479070309341298,0.02874421856047788,['SUSD2'],1
+regulation of vacuole organization (GO:0044088),0.008767627745742801,0.0429359056644161,['RAB1B'],1
+establishment of endothelial barrier (GO:0061028),0.011543198536568492,0.0429359056644161,['RAB1B'],1
+negative regulation of cell cycle G1/S phase transition (GO:1902807),0.013916845835577172,0.0429359056644161,['SUSD2'],1
+regulation of autophagosome assembly (GO:2000785),0.013916845835577172,0.0429359056644161,['RAB1B'],1
+regulation of cell cycle G1/S phase transition (GO:1902806),0.014311968554805366,0.0429359056644161,['SUSD2'],1
+autophagosome organization (GO:1905037),0.022185389719098877,0.04985611641198788,['RAB1B'],1
+autophagosome assembly (GO:0000045),0.0229696971452446,0.04985611641198788,['RAB1B'],1
+COPII vesicle coating (GO:0048208),0.02492805820599394,0.04985611641198788,['RAB1B'],1
+vesicle coating (GO:0006901),0.02492805820599394,0.04985611641198788,['RAB1B'],1
+"vesicle targeting, rough ER to cis-Golgi (GO:0048207)",0.02492805820599394,0.04985611641198788,['RAB1B'],1

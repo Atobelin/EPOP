@@ -1,0 +1,6 @@
+File,Description,Usage
+final_unique_protein_table.csv,"Complete list of 41 EPOP-identified ECM proteins with UniProt IDs, gene names, ESM scores, and peptide counts",Main protein identification results
+enrichment_go_biological_process_2021.csv,GO Biological Process enrichment results with p-values and gene lists,Functional validation data
+enrichment_reactome_2022.csv,Reactome pathway enrichment results,Pathway validation data
+ensembl_uniprot_mapping.csv,Ensembl to UniProt ID mapping results,Protein annotation mapping
+epop_genes.txt,Simple list of gene symbols for external analysis,Gene list for other tools

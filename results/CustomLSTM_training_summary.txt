@@ -1,0 +1,7 @@
+CustomLSTM Training Summary
+==================================================
+
+Model: CustomLSTM
+Final Accuracy: 0.7769
+Final F1-Score: 0.7904
+Target (99%) Achieved: No

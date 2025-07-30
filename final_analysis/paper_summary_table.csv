@@ -1,0 +1,10 @@
+Category,Metric,Value
+Protein Statistics,Total proteins identified,44
+Protein Statistics,Mean ESM score,0.451
+Protein Statistics,High confidence proteins (≥0.8),6
+Protein Statistics,Reviewed UniProt entries,44
+Protein Statistics,Average peptides per protein,1.9
+Enrichment Statistics,Total significant terms,164
+Enrichment Statistics,Highly significant terms (p<1e-10),11
+Enrichment Statistics,High significance rate,6.7%
+Enrichment Statistics,Databases with significant hits,5
